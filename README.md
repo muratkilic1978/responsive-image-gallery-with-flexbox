@@ -9,11 +9,11 @@ Before the Flexbox Layout module, there were four layout modes:
 The Flexible Box Layout Module, makes it easier to design flexible responsive layout structure without using float or positioning.
 
 ## A Complete Guide to Flexbox
-For more infor about Flexbox settings open this website [CSS-Tricks:](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). This is a guide that explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). 
+For more infor about Flexbox settings open this website [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). This is a guide that explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). 
 
 # Exercise
 
-In this video-exercise - you will learn how to create a responsive image gallery using flexbox using the CSS property **display: flex** container with images.
+In this exercise - you will learn how to create a responsive image gallery using flexbox using the CSS property **display: flex** container with images.
 
 ## Step - 1
 ## Download/clone this [repo](https://github.com/muratkilic1978/responsive-image-gallery-with-flexbox) to your machine
