@@ -46,10 +46,10 @@ Inside the **grid-image** class do following things:
 
 ## Step - 7
 Next place the cursor after the latest css-selector and after the ending curly-bracket `}`. Next create 4 media queries for following screen sizes with following properties and values:
-* If screen size is more than **640px** wide - fetch the **image-grid** class and set the **flex-basis** to **50%**
-* If screen size is more than **960px** wide fetch the **image-grid** class and set the **flex-basis** to **33.333%**
-* If screen size is more than **1024px** wide fetch the **image-grid** class and set the **flex-basis** to **25%**
-* If screen size is more than **1280px** wide fetch the **image-grid** class and set the **flex-basis** to **12.5%**
+* If screen size is more than **640px** wide - fetch the **grid-image** class and set the **flex-basis** to **50%**
+* If screen size is more than **960px** wide fetch the **grid-image** class and set the **flex-basis** to **33.333%**
+* If screen size is more than **1024px** wide fetch the **grid-image** class and set the **flex-basis** to **25%**
+* If screen size is more than **1280px** wide fetch the **grid-image** class and set the **flex-basis** to **12.5%**
 
 ### Here is an example of a Media Query for screen size more than 600px wide
 
