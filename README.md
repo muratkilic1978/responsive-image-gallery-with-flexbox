@@ -67,6 +67,6 @@ Inside the **grid-image** class do following things:
 * Finally open the index.html in your browser and notice the changes you see
 
 ## Step - 9
-Inside the **image-grid** class do following things:
+Last step. Go inside the **image-grid** class and do following things:
 * Set the **justify-content** property to **center**
 * Finally open the index.html in your browser and notice the changes you see
