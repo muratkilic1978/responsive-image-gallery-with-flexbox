@@ -23,7 +23,7 @@ Open the project folder that you downloaded above with your code-editor and clic
 
 ## Step - 3
 Scroll to the top of the **index.html** and enter all CSS-code in this exercise internally.
-Go and create a selector that fetch the image-grid class.
+Go and create a selector that fetch the **image-grid** class.
 
 ## Step - 4
 Inside the **image-grid** class do following things:
